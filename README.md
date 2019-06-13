@@ -13,7 +13,7 @@ window.ff=$;window.addPage=function() {ori=document.location.href;if ("page=".se
 ```
 4. 处理一个页面的微博后，再次复制上面代码到console中执行，直到所有页都处理完。
 
-## 批量删除微博（！！!谨慎操作）
+## 批量删除微博（！！!谨慎操作，有bug）
 1. 打开Chrome浏览器，登陆微博；
 2. 按F12打开开发者工具；
 3. 复制如下代码到console中
